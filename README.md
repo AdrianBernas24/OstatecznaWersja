@@ -1,0 +1,2 @@
+# OstatecznaWersja
+Ostateczna wersja projektu 
