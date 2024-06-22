@@ -1,0 +1,7 @@
+F:\ostatecznaWersja\Aplikacja\obj\Debug\Aplikacja.csproj.CoreCompileInputs.cache
+F:\ostatecznaWersja\Aplikacja\bin\Debug\Aplikacja.exe.config
+F:\ostatecznaWersja\Aplikacja\bin\Debug\Aplikacja.exe
+F:\ostatecznaWersja\Aplikacja\bin\Debug\Aplikacja.pdb
+F:\ostatecznaWersja\Aplikacja\obj\Debug\Aplikacja.exe
+F:\ostatecznaWersja\Aplikacja\obj\Debug\Aplikacja.pdb
+F:\ostatecznaWersja\Aplikacja\obj\Debug\Aplikacja.csproj.AssemblyReference.cache
