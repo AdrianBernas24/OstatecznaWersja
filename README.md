@@ -1,7 +1,7 @@
 # Aplikacja Kasy Samoobsługowej
 
 ## Opis
-Jest to podstawowa aplikacja do obsługi kasy samoobsługowej, z możliwością łatwego rozwoju funkcjonalności oraz poszerzenia asortymentu sklepu, bądź wprowadzenia jakichkolwiek zmian.
+Jest to podstawowa aplikacja z graficznym interfejsem do obsługi kasy samoobsługowej, z możliwością łatwego rozwoju funkcjonalności oraz poszerzenia asortymentu sklepu, bądź wprowadzenia jakichkolwiek zmian. Program napisany został stosując się do zasad programowania obiektowego, takimi jak enkapsulacja czy polimorfizm. Zachowana została czytelność, modularność oraz łatwość utrzymania kodu.
 
 <p align="center">
   <img src="01.png" alt="ShoppingApUI">
